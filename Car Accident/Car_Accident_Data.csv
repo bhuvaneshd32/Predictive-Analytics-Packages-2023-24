@@ -1,0 +1,353 @@
+Dead / Alive , Head Injury Level,Made By,Model,Year,Chest,Left Leg,Right Leg,Driver or Paseanger,Protection,Power/Watt,Size of Car
+Deceased,1855,Yugo,GV,87,45,,701,Driver,manual belts,1850,mini
+Alive,379,Yugo,GV,87,41,585,172,Passenger,manual belts,1850,mini
+Deceased,2140,Volkswagen,Fox,87,52,723,450,Passenger,manual belts,2140,lt
+Alive,1801,Volkswagen,Fox,87,52,484,924,Driver,manual belts,2140,lt
+Alive,1184,Toyota,Pickup,87,57,437,364,Driver,manual belts,2508,pu
+Alive,973,Toyota,Camry,87,46,1200,1167,Passenger,passive belts,2780,comp
+Alive,871,Toyota,Camry,87,51,1380,1160,Driver,passive belts,2780,comp
+Deceased,699,Toyota,Pickup,87,39,500,532,Passenger,manual belts,2508,pu
+Alive,1339,Subaru,GL,87,58,1016,485,Driver,manual belts,2254,lt
+Deceased,884,Subaru,GL,87,44,694,309,Passenger,manual belts,2254,lt
+Alive,611,Subaru,Justy DL,87,42,529,595,Driver,manual belts,1660,mini
+Alive,547,Subaru,Justy DL,87,38,1256,426,Passenger,manual belts,1660,mini
+,584,Saab,9000,87,37,120,435,Driver,manual belts,2990,comp
+Deceased,440,Saab,9000,87,35,346,638,Passenger,manual belts,2990,comp
+Alive,846,Pontiac,Grand Am,87,44,879,497,Driver,passive belts,2530,comp
+Alive,603,Pontiac,Sunbird,87,36,428,483,Driver,manual belts,2415,lt
+Deceased,601,Pontiac,Grand Am,87,41,1848,529,Passenger,passive belts,2530,comp
+Alive,404,Pontiac,Sunbird,87,37,1079,211,Passenger,manual belts,2415,lt
+Deceased,903,Plymouth,Voyager,87,43,776,453,Driver,manual belts,3040,van
+Alive,873,Plymouth,Sundance,87,52,717,467,Driver,manual belts,2580,comp
+Alive,501,Plymouth,Voyager,87,47,1595,275,Passenger,manual belts,3040,van
+,,Plymouth,Sundance,87,41,832,540,Passenger,manual belts,2580,comp
+Alive,1831,Peugeot,505,87,60,300,535,Driver,manual belts,2900,comp
+Deceased,1786,Peugeot,505,87,50,546,176,Passenger,manual belts,2900,comp
+Alive,405,Oldsmobile,Calais,87,70,1085,1435,Driver,passive belts,2650,comp
+Alive,328,Oldsmobile,Calais,87,40,1737,555,Passenger,passive belts,2650,comp
+Deceased,2034,Nissan,Sentra,87,61,803,304,Driver,manual belts,2296,lt
+Alive,1465,Nissan,Pickup,87,57,252,420,Driver,manual belts,2714,pu
+Alive,1244,Nissan,Pickup,87,45,531,617,Passenger,manual belts,2714,pu
+Alive,1226,Nissan,200sx,87,53,1390,103,Driver,manual belts,2739,comp
+,799,Nissan,Sentra,87,,615,415,Passenger,manual belts,2296,lt
+,664,Nissan,200sx,87,37,740,89,Passenger,manual belts,2739,comp
+Alive,952,Mitsubishi,Starion,87,48,1260,1369,Driver,passive belts,3020,med
+Alive,377,Mitsubishi,Starion,87,46,1752,1323,Passenger,passive belts,3020,med
+Alive,743,Mercury,Topaz,87,64,585,957,Driver,d airbag,2725,comp
+Alive,626,Mercury,Topaz,87,40,1277,455,Passenger,d airbag,2725,comp
+Deceased,846,Mazda,626,87,52,820,1487,Driver,passive belts,2590,comp
+Deceased,801,Mazda,626,87,46,1300,1255,Passenger,passive belts,2590,comp
+Deceased,2700,Jeep,Comanche,87,48,923,761,Passenger,manual belts,2907,pu
+,1229,Jeep,Wrangler YJ 4x4,87,40,758,783,Passenger,manual belts,3120,mpv
+Alive,1052,Jeep,Comanche,87,62,925,319,Driver,manual belts,2907,pu
+Deceased,758,Jeep,Wrangler YJ 4x4,87,44,1100,1015,Driver,manual belts,3120,mpv
+Deceased,1809,Isuzu,IMark,87,53,351,365,Driver,manual belts,2100,lt
+Alive,1764,Isuzu,Spacecab,87,65,274,483,Driver,manual belts,2766,pu
+Deceased,1067,Isuzu,Spacecab,87,58,279,480,Passenger,manual belts,2766,pu
+Alive,1042,Isuzu,IMark,87,51,747,225,Passenger,manual belts,2100,lt
+Alive,1003,Hyundai,Excel,87,43,345,775,Passenger,manual belts,2180,lt
+Alive,757,Hyundai,Excel,87,54,2408,1187,Driver,passive belts,2200,lt
+Alive,716,Hyundai,Excel,87,55,790,1360,Driver,manual belts,2180,lt
+Alive,345,Hyundai,Excel,87,46,1794,1006,Passenger,passive belts,2200,lt
+Alive,769,Honda,Accord,87,46,863,1244,Driver,passive belts,2440,lt
+Alive,382,Honda,Accord,87,36,695,558,Passenger,passive belts,2440,lt
+Alive,1568,Ford,Aerostar,87,49,286,590,Driver,manual belts,3013,van
+Alive,1070,Ford,Aerostar,87,54,518,446,Passenger,manual belts,3013,van
+Alive,977,Ford,Ranger,87,52,739,344,Driver,manual belts,2668,pu
+Deceased,551,Ford,Ranger,87,47,526,701,Passenger,manual belts,2668,pu
+Alive,551,Ford,Escort,87,42,1146,465,Driver,passive belts,2280,lt
+,479,Ford,Mustang LX,87,42,580,921,Driver,manual belts,2868,comp
+,418,Ford,Escort,87,40,1053,619,Passenger,passive belts,2280,lt
+Deceased,301,Ford,Mustang LX,87,34,1589,290,Passenger,manual belts,2868,comp
+Alive,1488,Dodge,Shadow,87,49,1003,529,Driver,manual belts,2550,comp
+Deceased,985,Dodge,Dakota,87,44,324,442,Driver,manual belts,3010,pu
+,754,Dodge,Dakota,87,41,213,460,Passenger,manual belts,3010,pu
+,653,Dodge,Shadow,87,36,748,486,Passenger,manual belts,2550,comp
+Deceased,1698,Chrysler,Le Baron,87,82,1863,853,Passenger,passive belts,2870,comp
+Deceased,791,Chrysler,Le Baron,87,62,1008,1776,Driver,passive belts,2870,comp
+Alive,1719,Chevrolet,G20 Beauville,87,43,1507,,Passenger,manual belts,4887,van
+Alive,1477,Chevrolet,Suburban,87,50,1911,257,Driver,manual belts,5619,mpv
+Deceased,1387,Chevrolet,G20 Beauville,87,67,1298,,Driver,manual belts,4887,van
+Deceased,985,Chevrolet,S10 Pickup,87,58,1441,1108,Driver,manual belts,2592,pu
+,733,Chevrolet,Camaro,87,39,736,353,Driver,manual belts,3070,med
+,660,Chevrolet,Camaro,87,39,961,144,Passenger,manual belts,3070,med
+Alive,522,Chevrolet,S10 Pickup,87,34,1476,699,Passenger,manual belts,2592,pu
+Deceased,,Chevrolet,Suburban,87,42,101,358,Passenger,manual belts,5619,mpv
+Deceased,599,Acura,Integra,87,35,791,262,Driver,manual belts,2350,lt
+Alive,597,Acura,Integra,87,34,387,354,Passenger,manual belts,2350,lt
+Alive,519,Volvo,740 GLE,88,42,1143,723,Driver,d airbag,3010,med
+Alive,445,Volvo,740 GLE,88,42,1793,634,Passenger,d airbag,3010,med
+Alive,1424,Volkswagen,Fox,88,44,,478,Passenger,manual belts,2200,lt
+Alive,1320,Volkswagen,Vanagon GL,88,59,2930,1911,Driver,manual belts,3520,van
+Alive,1114,Volkswagen,Fox,88,55,344,663,Driver,manual belts,2200,lt
+Alive,899,Volkswagen,Vanagon GL,88,48,1963,1014,Passenger,manual belts,3520,van
+,1005,Toyota,Tercel,88,40,1245,367,Driver,manual belts,2100,lt
+,593,Toyota,Corolla Fx,88,42,719,300,Driver,manual belts,2320,lt
+,398,Toyota,Tercel,88,42,572,261,Passenger,manual belts,2100,lt
+,397,Toyota,Corolla Fx,88,40,1162,393,Passenger,manual belts,2320,lt
+Deceased,1250,Saab,900S,88,35,1395,1535,Passenger,passive belts,2840,comp
+Alive,718,Saab,900S,88,46,1776,,Driver,passive belts,2840,comp
+Deceased,1656,Renault,Medallion,88,57,205,411,Driver,manual belts,2660,comp
+Deceased,873,Renault,Medallion,88,38,617,1193,Passenger,manual belts,2660,comp
+Deceased,897,Pontiac,Le Mans,88,44,792,389,Passenger,manual belts,2200,lt
+Alive,819,Pontiac,Le Mans,88,57,1263,378,Driver,manual belts,2200,lt
+Deceased,1701,Peugeot,505 GLS,88,60,1657,751,Driver,passive belts,3070,med
+Deceased,157,Peugeot,505 GLS,88,45,930,328,Passenger,passive belts,3070,med
+Alive,710,Oldsmobile,Delta 88,88,51,1350,520,Driver,d airbag,3460,med
+Alive,539,Oldsmobile,Delta 88,88,38,2119,593,Passenger,d airbag,3460,med
+Deceased,1528,Nissan,NL Xev Pickup,88,67,242,655,Driver,manual belts,2631,pu
+Alive,1242,Nissan,NL Xev Pickup,88,53,609,198,Passenger,manual belts,2631,pu
+Alive,1134,Nissan,Pulsar Nx,88,40,,226,Driver,manual belts,2480,lt
+Alive,1047,Nissan,Sentra,88,53,880,1030,Driver,manual belts,2328,lt
+Deceased,949,Nissan,Van Xe,88,54,1326,661,Driver,manual belts,3560,van
+Deceased,907,Nissan,Maxima SE,88,64,1422,885,Driver,passive belts,3210,med
+Alive,861,Nissan,Maxima SE,88,49,1500,1049,Passenger,passive belts,3210,med
+Alive,597,Nissan,Van Xe,88,36,1708,1331,Passenger,manual belts,3560,van
+,526,Nissan,Sentra,88,42,686,853,Passenger,manual belts,2328,lt
+Alive,430,Nissan,Pulsar Nx,88,31,122,1742,Passenger,manual belts,2480,lt
+Deceased,1320,Mitsubishi,Montero 4x4,88,45,1303,329,Driver,manual belts,3298,mpv
+Alive,488,Mitsubishi,Montero 4x4,88,50,1001,302,Passenger,manual belts,3298,mpv
+Alive,712,Mercury,Sable,88,51,,862,Driver,manual belts,3200,med
+Alive,410,Mercury,Sable,88,35,1512,913,Passenger,manual belts,3200,med
+,921,Mazda,RX7,88,39,186,268,Driver,manual belts,2630,comp
+Alive,859,Mazda,929,88,49,774,450,Passenger,manual belts,3470,med
+Alive,614,Mazda,RX7,88,48,1135,650,Passenger,manual belts,2630,comp
+Alive,273,Mazda,929,88,51,1093,450,Driver,manual belts,3470,med
+Deceased,1873,Isuzu,Spacecab,88,59,325,397,Driver,manual belts,3128,pu
+Deceased,723,Isuzu,Spacecab,88,55,412,172,Passenger,manual belts,3128,pu
+,787,Honda,Civic Dx,88,37,767,471,Driver,manual belts,2077,lt
+,533,Honda,Civic Dx,88,38,816,184,Passenger,manual belts,2077,lt
+Deceased,1074,Ford,F150,88,56,1024,644,Driver,manual belts,3757,pu
+Deceased,1014,Ford,Festiva,88,52,976,747,Driver,manual belts,1760,mini
+Deceased,822,Ford,Festiva,88,43,876,251,Passenger,manual belts,1760,mini
+Alive,721,Ford,Tempo,88,47,1113,1037,Driver,passive belts,2660,comp
+,707,Ford,Taurus,88,38,,455,Driver,manual belts,3140,med
+,587,Ford,F150,88,38,1090,295,Passenger,manual belts,3757,pu
+Alive,470,Ford,Tempo,88,50,1773,702,Passenger,passive belts,2660,comp
+Alive,359,Ford,Taurus,88,47,775,438,Passenger,manual belts,3140,med
+Deceased,1354,Dodge,colt,88,53,844,461,Driver,manual belts,2348,lt
+Deceased,816,Dodge,colt,88,38,402,1601,Passenger,manual belts,2348,lt
+Alive,685,Dodge,D150,88,40,1481,361,Driver,manual belts,3550,pu
+,466,Dodge,D150,88,35,396,276,Passenger,manual belts,3550,pu
+Alive,768,Daihatsu,Charade,88,43,574,598,Driver,manual belts,1820,mini
+Alive,642,Daihatsu,Charade,88,37,1188,388,Passenger,manual belts,1820,mini
+Deceased,1362,Chrysler,New Yorker,88,55,730,1102,Driver,manual belts,3190,med
+Alive,424,Chrysler,New Yorker,88,43,1580,454,Passenger,manual belts,3190,med
+Deceased,3665,Chevrolet,G20,88,97,1330,963,Driver,manual belts,4244,van
+Deceased,1603,Chevrolet,Astro,88,72,1572,700,Driver,manual belts,3787,van
+Deceased,1452,Chevrolet,G20,88,56,2447,259,Passenger,manual belts,4244,van
+Deceased,1424,Chevrolet,Astro,88,63,1695,576,Passenger,manual belts,3787,van
+Deceased,892,Chevrolet,C1500,88,47,942,622,Driver,manual belts,3680,pu
+Deceased,864,Chevrolet,Beretta GT,88,50,1692,1052,Driver,passive belts,2890,comp
+Alive,772,Chevrolet,Corsica,88,44,1293,737,Driver,manual belts,2750,comp
+,752,Chevrolet,Corsica,88,40,614,845,Passenger,manual belts,2750,comp
+Alive,559,Chevrolet,Beretta GT,88,42,1731,796,Passenger,passive belts,2890,comp
+Alive,374,Chevrolet,C1500,88,46,1207,306,Passenger,manual belts,3680,pu
+Deceased,1467,Buick,Elect. Park Ave,88,54,712,1366,Driver,manual belts,3360,med
+Alive,880,Buick,Regal,88,50,996,642,Driver,passive belts,3210,med
+,794,Buick,Elect. Park Ave,88,37,479,686,Passenger,manual belts,3360,med
+,535,Buick,Regal,88,33,686,526,Passenger,passive belts,3210,med
+Alive,618,Acura,Legend LS,88,41,730,722,Passenger,d airbag,3280,med
+Alive,435,Acura,Legend LS,88,50,926,708,Driver,d airbag,3280,med
+Alive,818,Volkswagen,Fox,89,58,738,508,Passenger,manual belts,2150,lt
+Alive,787,Volkswagen,Fox,89,64,139,1019,Driver,manual belts,2150,lt
+Alive,1520,Toyota,Pickup,89,47,1340,1053,Driver,manual belts,2543,pu
+Alive,1183,Toyota,Van,89,59,1199,474,Driver,manual belts,3277,van
+Alive,994,Toyota,Corolla,89,49,1101,451,Driver,manual belts,2370,lt
+Deceased,883,Toyota,Pickup,89,46,614,493,Passenger,manual belts,2543,pu
+Alive,790,Toyota,Cressida,89,51,1632,1246,Driver,Motorized belts,3450,med
+Alive,546,Toyota,Corolla,89,45,894,681,Passenger,manual belts,2370,lt
+Deceased,544,Toyota,Cressida,89,51,1554,1107,Passenger,Motorized belts,3450,med
+Alive,530,Toyota,Van,89,54,2741,847,Passenger,manual belts,3277,van
+Deceased,1763,Suzuki,Sidekick 4x4,89,70,1860,2259,Passenger,manual belts,2311,mpv
+Deceased,1345,Suzuki,Sidekick 4x4,89,64,1595,2856,Driver,manual belts,2311,mpv
+Alive,810,Plymouth,Acclaim,89,50,1552,873,Passenger,manual belts,2820,comp
+Alive,663,Plymouth,Acclaim,89,46,1201,840,Driver,manual belts,2820,comp
+Deceased,2192,Peugeot,505S,89,77,839,554,Passenger,Motorized belts,3010,med
+Deceased,1983,Peugeot,505S,89,64,966,1024,Driver,Motorized belts,3010,med
+Alive,965,Nissan,Pickup,89,35,,332,Passenger,manual belts,2670,pu
+Alive,808,Nissan,Maxima,89,51,611,1409,Driver,Motorized belts,3160,med
+Alive,742,Nissan,Pickup,89,46,794,621,Driver,manual belts,2670,pu
+Alive,736,Nissan,Maxima,89,44,664,1043,Passenger,Motorized belts,3160,med
+Alive,525,Nissan,240sx,89,44,656,854,Passenger,Motorized belts,2680,comp
+Alive,407,Nissan,240sx,89,41,1234,687,Driver,Motorized belts,2680,comp
+,998,Mitsubishi,Galant,89,40,1229,526,Passenger,manual belts,2740,comp
+Deceased,971,Mitsubishi,Galant,89,50,1613,584,Driver,manual belts,2740,comp
+Deceased,960,Mitsubishi,Mirage,89,,827,1218,Driver,Motorized belts,2370,lt
+Deceased,805,Mitsubishi,Wagon,89,49,1568,1427,Driver,manual belts,3441,van
+Alive,772,Mitsubishi,Mirage,89,42,1367,1078,Passenger,Motorized belts,2370,lt
+Alive,713,Mitsubishi,Wagon,89,51,1607,791,Passenger,manual belts,3441,van
+Alive,940,Mercury,Tracer,89,48,2073,658,Driver,manual belts,2280,lt
+,425,Mercury,Tracer,89,38,733,581,Passenger,manual belts,2280,lt
+Alive,863,Lincoln,Continental,89,48,314,1247,Driver,d&p airbags,3710,hev
+,492,Lincoln,Continental,89,,1326,1090,Passenger,d&p airbags,3710,hev
+Alive,1796,Jeep,Cherokee 4x4,89,43,1486,337,Passenger,manual belts,3284,mpv
+Alive,968,Jeep,Cherokee 4x4,89,69,401,540,Driver,manual belts,3284,mpv
+Deceased,1520,Isuzu,Trooper II 4x4,89,59,804,262,Passenger,manual belts,3685,mpv
+Deceased,1269,Isuzu,Trooper II 4x4,89,73,932,322,Driver,manual belts,3685,mpv
+Deceased,1196,Hyundai,Sonata,89,54,869,1717,Driver,manual belts,2850,comp
+Alive,937,Hyundai,Sonata,89,53,603,293,Passenger,manual belts,2850,comp
+Alive,750,Honda,Civic Crx,89,39,361,791,Driver,manual belts,1882,mini
+Deceased,520,Honda,Civic Crx,89,37,903,375,Passenger,manual belts,1882,mini
+Alive,1177,Geo,Metro,89,33,671,571,Passenger,manual belts,1590,mini
+Alive,1075,Geo,Metro,89,56,805,465,Driver,manual belts,1650,mini
+Deceased,951,Geo,Metro,89,,789,458,Driver,manual belts,1590,mini
+Alive,840,Geo,Metro,89,46,244,1002,Passenger,manual belts,1650,mini
+Deceased,994,Ford,Bronco II 4x4,89,58,267,428,Driver,manual belts,3485,mpv
+Alive,970,Ford,Probe,89,46,691,579,Driver,manual belts,2650,comp
+Alive,950,Ford,Bronco II 4x4,89,51,2110,289,Passenger,manual belts,3485,mpv
+Deceased,541,Ford,TBird,89,44,1224,1264,Driver,Motorized belts,3630,hev
+,496,Ford,TBird,89,40,1138,776,Passenger,Motorized belts,3630,hev
+,496,Ford,Probe,89,35,870,187,Passenger,manual belts,2650,comp
+Alive,877,Eagle,Premier,89,46,742,765,Driver,manual belts,3060,med
+Deceased,868,Eagle,Premier,89,44,1011,685,Passenger,manual belts,3060,med
+Alive,745,Eagle,Medallion,89,41,1721,1574,Driver,Motorized belts,2740,comp
+Alive,589,Eagle,Medallion,89,39,1738,1670,Passenger,Motorized belts,2740,comp
+Deceased,1421,Dodge,Spirit,89,47,672,772,Driver,manual belts,2840,comp
+Alive,537,Dodge,Spirit,89,45,1295,707,Passenger,manual belts,2840,comp
+Alive,399,Dodge,Daytona,89,39,729,908,Driver,d airbag,2790,comp
+Alive,297,Dodge,Daytona,89,32,795,457,Passenger,d airbag,2790,comp
+Deceased,786,Chrysler,Fifth Ave,89,43,1132,667,Driver,d airbag,3820,hev
+Deceased,682,Chrysler,Fifth Ave,89,43,766,575,Passenger,d airbag,3820,hev
+Alive,2482,Chevrolet,S10 Blazer 4X4,89,48,,,Passenger,manual belts,3518,mpv
+Deceased,1849,Chevrolet,Astro,89,64,2737,1043,Driver,manual belts,4002,van
+Alive,1838,Chevrolet,Astro,89,64,1901,365,Passenger,manual belts,4002,van
+Alive,1365,Chevrolet,Caprice,89,42,260,495,Passenger,manual belts,3693,hev
+,1328,Chevrolet,Caprice,89,64,406,493,Driver,manual belts,3693,hev
+Alive,834,Chevrolet,S10 Blazer 4X4,89,62,,,Driver,manual belts,3518,mpv
+Alive,710,Audi,100,89,31,571,757,Passenger,d airbag,3100,med
+Alive,600,Audi,80,89,49,168,1871,Driver,manual belts,2790,comp
+,515,Audi,80,89,39,324,245,Passenger,manual belts,2790,comp
+Deceased,185,Audi,100,89,35,998,894,Driver,d airbag,3100,med
+Alive,1182,Volkswagen,Passat,90,59,1104,1436,Driver,Motorized belts,2990,comp
+Alive,604,Volkswagen,Passat,90,46,1154,2474,Passenger,Motorized belts,2990,comp
+Alive,1306,Toyota,4Runner 4x4,90,48,430,821,Driver,manual belts,3860,mpv
+Deceased,1133,Toyota,4Runner 4x4,90,47,1429,320,Passenger,manual belts,3860,mpv
+Alive,834,Toyota,Celica,90,50,1071,906,Driver,d airbag,2460,lt
+Alive,685,Toyota,Celica,90,37,1190,609,Passenger,d airbag,2460,lt
+Alive,1007,Subaru,Legacy,90,52,1957,842,Driver,Motorized belts,2640,comp
+Deceased,675,Subaru,Legacy,90,44,1899,1121,Passenger,Motorized belts,2640,comp
+,761,Pontiac,Trans Sport,90,42,1109,913,Driver,manual belts,3740,van
+,595,Pontiac,Trans Sport,90,37,253,287,Passenger,manual belts,3740,van
+Alive,1105,Nissan,Stanza,90,59,1404,813,Driver,Motorized belts,2790,comp
+Alive,1051,Nissan,Axxess,90,46,919,1257,Driver,passive belts,3037,van
+Deceased,654,Nissan,Axxess,90,46,1266,1143,Passenger,passive belts,3037,van
+Alive,629,Nissan,Stanza,90,47,1205,744,Passenger,Motorized belts,2790,comp
+Deceased,772,Mitsubishi,Eclipse,90,44,1152,499,Driver,Motorized belts,2594,comp
+,612,Mitsubishi,Eclipse,90,40,1033,413,Passenger,Motorized belts,2594,comp
+Alive,833,Mercedes,190E,90,58,1028,331,Passenger,d airbag,3058,med
+Alive,800,Mercedes,190E,90,60,705,582,Driver,d airbag,3058,med
+Alive,920,Mazda,Miata,90,59,1026,911,Driver,d airbag,2190,lt
+Alive,531,Mazda,Miata,90,42,796,763,Passenger,d airbag,2190,lt
+Alive,471,Lincoln,Town Car,90,40,1728,855,Driver,d&p airbags,4080,hev
+,,Lincoln,Town Car,90,36,883,644,Passenger,d&p airbags,4080,hev
+Alive,992,Lexus,ES250,90,55,1102,1012,Driver,d airbag,3280,med
+Alive,630,Lexus,ES250,90,47,1689,1075,Passenger,d airbag,3280,med
+Alive,943,Jeep,Cherokee 4x4,90,58,785,1218,Driver,manual belts,3270,mpv
+Deceased,841,Jeep,Cherokee 4x4,90,52,1277,692,Passenger,manual belts,3270,mpv
+Alive,1952,Isuzu,Trooper II 4x4,90,64,430,141,Passenger,manual belts,3684,mpv
+Deceased,1564,Isuzu,Trooper II 4x4,90,60,262,307,Driver,manual belts,3684,mpv
+Alive,996,Isuzu,Amigo,90,56,388,501,Driver,manual belts,2900,mpv
+Alive,744,Isuzu,Amigo,90,63,319,458,Passenger,manual belts,2900,mpv
+Deceased,466,Infiniti,M30,90,43,936,844,Driver,d airbag,3370,med
+Alive,443,Infiniti,M30,90,45,1132,716,Passenger,d airbag,3370,med
+Alive,696,Hyundai,Excel,90,41,1385,1682,Driver,Motorized belts,2200,lt
+Alive,419,Hyundai,Excel,90,39,1921,964,Passenger,Motorized belts,2200,lt
+Deceased,1279,Honda,Prelude,90,59,770,681,Driver,passive belts,2650,comp
+Alive,854,Honda,Prelude,90,48,674,733,Passenger,passive belts,2650,comp
+Deceased,1141,Geo,Prizm,90,53,1549,447,Passenger,manual belts,2355,lt
+Alive,1030,Geo,Prizm,90,47,1341,455,Driver,manual belts,2355,lt
+Deceased,2613,Ford,Club Wagon,90,59,1526,688,Driver,manual belts,5103,van
+Deceased,1896,Ford,Club Wagon,90,49,3347,1294,Passenger,manual belts,5103,van
+Deceased,1270,Ford,Ranger 4x4,90,61,572,392,Driver,manual belts,3533,pu
+Alive,736,Ford,Ranger 4x4,90,52,3200,282,Passenger,manual belts,3533,pu
+Deceased,735,Ford,Taurus,90,46,1219,581,Driver,d airbag,3080,med
+Deceased,651,Ford,Mustang,90,42,1353,1063,Driver,d airbag,3445,med
+Alive,609,Ford,Taurus,90,40,1261,318,Passenger,d airbag,3080,med
+Alive,438,Ford,Mustang,90,50,1707,408,Passenger,d airbag,3445,med
+Deceased,1169,Dodge,Dakota 4x4,90,57,575,502,Driver,manual belts,3740,pu
+Alive,558,Dodge,Dakota 4x4,90,56,846,625,Passenger,manual belts,3740,pu
+Deceased,2132,Chrysler,Imperial,90,56,862,863,Passenger,d airbag,3540,hev
+Deceased,2043,Chrysler,Le Baron,90,46,1119,769,Passenger,d airbag,3000,med
+Alive,517,Chrysler,Imperial,90,43,767,979,Driver,d airbag,3540,hev
+Alive,298,Chrysler,Le Baron,90,40,332,611,Driver,d airbag,3000,med
+Alive,1358,Chevrolet,S10 Pickup 4x4,90,53,2046,804,Passenger,manual belts,3360,pu
+Alive,1200,Chevrolet,Lumina,90,58,782,,Driver,passive belts,3155,med
+Deceased,1074,Chevrolet,S10 Pickup 4x4,90,66,2234,643,Driver,manual belts,3360,pu
+Alive,772,Chevrolet,S10 Blazer 4X4,90,74,1539,985,Driver,manual belts,3720,mpv
+Deceased,770,Chevrolet,Cavalier,90,49,775,531,Driver,passive belts,2540,comp
+Alive,485,Chevrolet,Cavalier,90,37,1749,890,Passenger,passive belts,2540,comp
+Alive,,Chevrolet,S10 Blazer 4X4,90,45,1106,975,Passenger,manual belts,3720,mpv
+,,Chevrolet,Lumina,90,,935,,Passenger,passive belts,3155,med
+Alive,423,Cadillac,De Ville,90,39,541,1629,Driver,d airbag,3500,hev
+Alive,,Cadillac,De Ville,90,46,764,1113,Passenger,d airbag,3500,hev
+,426,Buick,Le Sabre,90,32,669,903,Passenger,passive belts,3240,med
+,,Buick,Le Sabre,90,35,1049,908,Driver,passive belts,3240,med
+Alive,1036,BMW,325i,90,56,865,,Driver,d airbag,2862,comp
+Alive,,BMW,325i,90,,853,,Passenger,d airbag,2862,comp
+Alive,637,Acura,Integra RS,90,42,1684,1877,Passenger,Motorized belts,2490,lt
+Alive,585,Acura,Integra RS,90,,1545,1301,Driver,Motorized belts,2490,lt
+Alive,1434,Toyota,Previa,91,66,332,663,Driver,manual belts,3642,van
+Alive,1342,Toyota,Pickup 4x4,91,49,1104,636,Driver,manual belts,3284,pu
+Alive,1238,Toyota,Corolla,91,54,1375,1342,Driver,passive belts,2405,lt
+Alive,1138,Toyota,Tercel,91,57,945,778,Driver,passive belts,2120,lt
+Alive,808,Toyota,Pickup 4x4,91,50,,781,Passenger,manual belts,3284,pu
+Deceased,790,Toyota,Previa,91,47,322,560,Passenger,manual belts,3642,van
+Alive,729,Toyota,Tercel,91,51,1325,949,Passenger,passive belts,2120,lt
+Alive,613,Toyota,Corolla,91,,917,1469,Passenger,passive belts,2405,lt
+Deceased,2017,Suzuki,Sidekick 4x4,91,55,1283,1252,Passenger,manual belts,2643,mpv
+Deceased,1314,Suzuki,Sidekick 4x4,91,74,562,2285,Driver,manual belts,2643,mpv
+Alive,1018,Saturn,SL2,91,46,1326,974,Passenger,Motorized belts,2453,lt
+Alive,918,Saturn,SL2,91,44,1009,1178,Driver,Motorized belts,2453,lt
+Alive,762,Plymouth,Acclaim,91,55,1044,252,Driver,d airbag,2860,comp
+Alive,446,Plymouth,Acclaim,91,43,891,1117,Passenger,d airbag,2860,comp
+Alive,765,Nissan,300zx,91,54,1495,1668,Driver,d airbag,3324,med
+Alive,681,Nissan,Sentra,91,45,1210,,Passenger,Motorized belts,2420,lt
+Alive,583,Nissan,Sentra,91,46,1117,475,Driver,Motorized belts,2420,lt
+Alive,546,Nissan,Stanza,91,56,1803,413,Driver,Motorized belts,2740,comp
+Alive,,Nissan,300zx,91,47,1415,1552,Passenger,d airbag,3324,med
+,,Nissan,Stanza,91,,971,558,Passenger,Motorized belts,2740,comp
+Deceased,1024,Mitsubishi,Galant,91,61,1243,906,Driver,Motorized belts,2838,comp
+Alive,711,Mitsubishi,Galant,91,53,1395,1232,Passenger,Motorized belts,2838,comp
+Deceased,1038,Mazda,Mpv,91,58,803,927,Driver,manual belts,3730,van
+Alive,779,Mazda,Protege,91,57,1700,,Driver,Motorized belts,2417,lt
+Alive,612,Mazda,Protege,91,51,851,997,Passenger,Motorized belts,2417,lt
+Alive,500,Mazda,Mpv,91,48,579,776,Passenger,manual belts,3730,van
+Alive,1254,Isuzu,Rodeo,91,69,568,334,Driver,manual belts,3450,mpv
+Alive,884,Isuzu,Rodeo,91,71,469,420,Passenger,manual belts,3450,mpv
+Alive,580,Isuzu,Stylus,91,57,1021,440,Driver,d airbag,2333,lt
+Alive,,Isuzu,Stylus,91,46,859,717,Passenger,d airbag,2333,lt
+Alive,870,Hyundai,Scoupe,91,45,2532,1296,Driver,passive belts,2201,lt
+Alive,618,Hyundai,Scoupe,91,42,966,333,Passenger,passive belts,2201,lt
+Alive,1068,Honda,Civic,91,50,996,765,Driver,Motorized belts,2252,lt
+Alive,750,Honda,Accord Dx,91,50,1361,1214,Driver,Motorized belts,2850,comp
+Alive,601,Honda,Civic,91,47,2158,624,Passenger,Motorized belts,2252,lt
+Alive,562,Honda,Accord Lx,91,45,519,892,Driver,d airbag,3160,med
+Deceased,539,Honda,Accord Lx,91,43,1015,562,Passenger,d airbag,3160,med
+Alive,378,Honda,Accord Dx,91,40,1452,900,Passenger,Motorized belts,2850,comp
+Alive,981,Geo,Storm,91,45,508,555,Passenger,d airbag,2250,lt
+Alive,417,Geo,Storm,91,47,394,478,Driver,d airbag,2250,lt
+Alive,903,Ford,Explorer 4x4,91,52,486,617,Driver,manual belts,4212,mpv
+,550,Ford,Probe,91,42,1051,1501,Driver,Motorized belts,2810,comp
+Deceased,480,Ford,Taurus,91,44,1901,328,Driver,d airbag,3290,med
+Deceased,450,Ford,Escort,91,39,1055,1119,Passenger,Motorized belts,2336,lt
+Alive,434,Ford,Escort,91,42,1403,2152,Driver,Motorized belts,2336,lt
+Alive,418,Ford,Probe,91,45,1592,1033,Passenger,Motorized belts,2810,comp
+Alive,258,Ford,Taurus,91,38,1594,708,Passenger,d airbag,3290,med
+Alive,,Ford,Explorer 4x4,91,,606,718,Passenger,manual belts,4212,mpv
+Alive,503,Dodge,Shadow,91,42,1234,647,Driver,d airbag,2730,comp
+Alive,457,Dodge,Shadow,91,39,739,781,Passenger,d airbag,2730,comp
+Alive,511,Chrysler,New Yorker,91,55,710,959,Driver,d airbag,3310,med
+,,Chrysler,New Yorker,91,,1133,794,Passenger,d airbag,3310,med
+Deceased,1826,Chevrolet,S10 Blazer 4X4,91,51,1909,515,Passenger,manual belts,3820,mpv
+Alive,1101,Chevrolet,Caprice,91,48,1527,626,Passenger,d airbag,3990,hev
+Alive,1026,Chevrolet,S10 Blazer 4X4,91,71,2626,593,Driver,manual belts,3820,mpv
+Alive,956,Chevrolet,Corsica,91,44,1377,424,Passenger,d airbag,2830,comp
+Deceased,739,Chevrolet,Beretta,91,35,910,230,Passenger,d airbag,2671,comp
+Alive,585,Chevrolet,Camaro,91,39,717,150,Driver,d airbag,3191,med
+Alive,583,Chevrolet,Camaro,91,42,627,174,Passenger,d airbag,3191,med
+Alive,533,Chevrolet,Caprice,91,54,1529,613,Driver,d airbag,3990,hev
+Alive,493,Chevrolet,Corsica,91,41,1171,550,Driver,d airbag,2830,comp
+Alive,343,Chevrolet,Beretta,91,37,659,523,Driver,d airbag,2671,comp
+,1144,Buick,Century,91,40,1014,179,Passenger,passive belts,2992,comp
+Alive,815,Buick,Century,91,47,1340,315,Driver,passive belts,2992,comp
